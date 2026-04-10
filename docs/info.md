@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a VGA background generator. It generates a VGA signal that can be displayed on a VGA monitor.
 
 ## How to test
 
-Explain how to use your project
+I dont know now
 
 ## External hardware
 
